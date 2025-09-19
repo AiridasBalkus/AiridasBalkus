@@ -19,7 +19,7 @@
 
 ## 🌍 Connect with Me
 - [LinkedIn](www.linkedin.com/in/airidas-balkus)   
-- [Email](mailto:airidasbal799@gmail.com)
+- [Email](mailto:AirdasBalkus@gmail.com)
 
 <!--
 - 🔭 I’m currently working on a few projets for university, 
