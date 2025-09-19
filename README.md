@@ -3,10 +3,13 @@
 🎓I'm currently studying in South East Technology University in the course BSc (Hons) in Applied Computing (Game Development)
 
 ## 🔧 Tech Stack
-- **Languages**: JavaScript • Java • C++ • C# • HTML
+- **Languages**: JavaScript • Java • C# • HTML
 - **Frameworks**: React • Node.js   
 - **Databases**: MySQL 
 - **Tools**: Git • Intellij • Visual Studio • VS Code
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiridasBalkus&layout=compact&theme=radical)
+
 
   
 ## 📊 GitHub Stats
