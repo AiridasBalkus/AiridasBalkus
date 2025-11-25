@@ -1,6 +1,6 @@
 # Hi, I'm Airidas
 
-🎓I'm currently studying in South East Technology University in the course BSc (Hons) in Applied Computing (Game Development)
+🎓I'm currently studying in South East Technology University in the course BSc (Hons) in Applied Computing (Game Development). I'm currently employed at Unum as a software engineer for Scrum Team 6.
 
 ## 🔧 Tech Stack
 - **Languages**: JavaScript • Java • C# • HTML
