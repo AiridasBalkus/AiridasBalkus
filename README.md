@@ -8,12 +8,11 @@
 - **Databases**: MySQL 
 - **Tools**: Git • Intellij • Visual Studio • VS Code
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiridasBalkus&layout=compact&theme=radical)
-
-
-  
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AiridasBalkus&show_icons=true&theme=radical)
+
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AiridasBalkus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AiridasBalkus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
